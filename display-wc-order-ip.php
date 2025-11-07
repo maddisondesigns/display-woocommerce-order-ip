@@ -2,8 +2,8 @@
 /*
 Plugin Name: Display WooCommerce Order IP
 Plugin URI: https://github.com/maddisondesigns/display-woocommerce-order-ip
-Description: A simple plugin to display the Customer IP on the Order Lists page.
-Version: 1.0.0
+Description: A simple plugin to display the Customer IP on the Orders List page.
+Version: 1.0.1
 Author: Anthony Hortin
 Author URI: http://maddisondesigns.com
 Text Domain: display-wc-order-ip
